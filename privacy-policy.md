@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Privacy Policy
+permalink: /privacy-policy
 ---
 This privacy policy discloses the privacy practices for elizabethcole.co. This privacy policy applies solely to information collected by this web site. It will notify you of the following:	
 
