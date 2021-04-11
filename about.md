@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Elizabeth Cole Website
+title: About
 ---
 # About the Author
 
