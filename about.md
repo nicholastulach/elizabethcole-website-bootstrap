@@ -1,9 +1,7 @@
 ---
 layout: page
-title: About
+title: About the Author
 ---
-# About the Author
-
 **Elizabeth Cole** is an author of historical romance. She can be found hanging around museums, coffeeshops, and graveyards…but not after dark.
 
 She studied English literature and medieval European history in school, but found that not many jobs required knowledge of the quadrivium or the Crusades (shocking, right?). She went back to school for a Masters in Library Science, but later decided she liked writing books even more than cataloguing them.
